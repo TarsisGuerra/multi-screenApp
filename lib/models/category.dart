@@ -10,4 +10,6 @@ class Category {
     required this.title,
     this.color = Colors.orange,
   });
+
+  get categories => null;
 }
